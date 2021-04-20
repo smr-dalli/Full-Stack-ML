@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"This is the index","title":"Introduction"},{"location":"data/","text":"Here is the data","title":"Data"},{"location":"organization/","text":"organization","title":"Organization"},{"location":"running/","text":"running","title":"Running"}]}
